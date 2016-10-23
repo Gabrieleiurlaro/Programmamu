@@ -6,7 +6,6 @@ var MSG = {
   badCode: "خطأ في البرنامج:\n %1",
   timeout: "تم تجاوز الحد الأقصى لتكرارات التنفيذ .",
   trashTooltip: "تجاهل كل البلوكات.",
-  stepJsTooltip:"الخطوة التالية",
   catLogic: "منطق",
   catLoops: "الحلقات",
   catMath: "رياضيات",

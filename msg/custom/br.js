@@ -6,7 +6,6 @@ var MSG = {
   badCode: "Fazi programm :\n%1",
   timeout: "Tizhet eo bet an niver brasañ a iteradurioù seveniñ aotreet.",
   trashTooltip: "Disteurel an holl vloc'hoù.",
-  stepJsTooltip: "próximo passo",
   catLogic: "Poell",
   catLoops: "Boukloù",
   catMath: "Matematik",
