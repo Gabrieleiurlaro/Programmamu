@@ -1174,6 +1174,24 @@ WorkspaceFactoryController.prototype.readOptions_ = function() {
     optionsObj['zoom'] = zoom;
   }
 
+  // If export languages selected, add all languages options.
+  if (document.getElementById('option_language_checkbox').checked) {
+    var language = Object.create(null);
+    language['javascript'] =
+        document.getElementById('languageOption_javascript_checkbox').checked;
+    language['python'] =
+        document.getElementById('languageOption_python_checkbox').checked;
+    language['php'] =
+        document.getElementById('languageOption_php_checkbox').checked;
+    language['lua'] =
+        document.getElementById('languageOption_lua_checkbox').checked;
+    language['dart'] =
+        document.getElementById('languageOption_dart_checkbox').checked;
+    language['xml'] =
+        document.getElementById('languageOption_xml_checkbox').checked;
+    optionsObj['language'] = language;
+  }
+
   return optionsObj;
 };
 

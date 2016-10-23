@@ -521,12 +521,20 @@ WorkspaceFactoryInit.addWorkspaceFactoryOptionsListeners_ =
             'block' : 'none';
       });
 
+      // Checking the grid checkbox displays zoom options.
+      document.getElementById('option_language_checkbox').addEventListener('change',
+          function(e) {
+            document.getElementById('language_options').style.display =
+                document.getElementById('option_language_checkbox').checked ?
+                'block' : 'none';
+          });
+
   document.getElementById('option_readOnly_checkbox').addEventListener('change',
     function(e) {
       var checkbox = document.getElementById('option_readOnly_checkbox');
       blocklyFactory.ifCheckedEnable(!checkbox.checked,
           ['readonly1', 'readonly2', 'readonly3', 'readonly4', 'readonly5',
-           'readonly6', 'readonly7']);
+           'readonly6', 'readonly7', 'readonly8']);
     });
 
     document.getElementById('option_infiniteBlocks_checkbox').addEventListener('change',

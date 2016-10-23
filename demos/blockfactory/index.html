@@ -28,7 +28,7 @@
   <script src="block_exporter_controller.js"></script>
   <script src="blocks.js"></script>
   <script src="app_controller.js"></script>
-  <script src="/storage.js"></script>
+  <script src="../../appengine/storage.js"></script>
   <link rel="stylesheet" href="factory.css">
   <link rel="stylesheet" href="../prettify.css">
   <script src="../prettify.js"></script>
@@ -269,6 +269,20 @@
               <label>Scale Speed <input type="number" id="zoomOption_scaleSpeed_number" class="optionsInput" value="1.2"></label><br>
             </div>
           </div>
+
+          <div id="readonly8">
+            <label><input type="checkbox" id="option_language_checkbox" class="optionsInput">Export Language</label><br>
+            <div id="language_options" name="languages" style="display: none">
+              <label> <input type="checkbox" id="languageOption_javascript_checkbox" class="optionsInput">Javascript</label><br>
+              <label> <input type="checkbox" id="languageOption_python_checkbox" class="optionsInput">Python</label><br>
+              <label> <input type="checkbox" id="languageOption_php_checkbox" class="optionsInput">PHP</label><br>
+              <label> <input type="checkbox" id="languageOption_lua_checkbox" class="optionsInput">Lua</label><br>
+              <label> <input type="checkbox" id="languageOption_dart_checkbox" class="optionsInput">Dart</label><br>
+              <label> <input type="checkbox" id="languageOption_xml_checkbox" class="optionsInput">XML</label><br>
+
+            </div>
+          </div>
+
         </div>
       </aside>
 
