@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Chyba programu:\n%1",
   timeout: "Maximum execution iterations exceeded.",
   trashTooltip: "Zahodit všechny bloky.",
+  stepJsTooltip: "Dalším krokem",
   catLogic: "Logika",
   catLoops: "Smyčky",
   catMath: "Matematika",

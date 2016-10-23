@@ -6,6 +6,7 @@ var MSG = {
   badCode: "שגיאה בתכנית: %1",
   timeout: "חריגה ממספר פעולות חוזרות אפשריות.",
   trashTooltip: "השלך את כל קטעי הקוד.",
+  stepJsTooltip: "הצעד הבא",
   catLogic: "לוגיקה",
   catLoops: "לולאות",
   catMath: "מתמטיקה",

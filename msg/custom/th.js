@@ -6,6 +6,7 @@ var MSG = {
   badCode: "โปรแกรมเกิดข้อผิดพลาด:\n%1",
   timeout: "โปรแกรมทำงานซ้ำคำสั่งเดิมมากเกินไป",
   trashTooltip: "ยกเลิกบล็อกทั้งหมด",
+  stepJsTooltip:"ทางดังต่อไปนี้",
   catLogic: "ตรรกะ",
   catLoops: "การวนซ้ำ",
   catMath: "คณิตศาสตร์",

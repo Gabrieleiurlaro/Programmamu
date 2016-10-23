@@ -6,6 +6,7 @@ var MSG = {
   badCode: "程式錯誤：\n%1",
   timeout: "超過最大執行數。",
   trashTooltip: "捨棄所有積木。",
+  stepJsTooltip:"下面這段話",
   catLogic: "邏輯",
   catLoops: "迴圈",
   catMath: "數學式",

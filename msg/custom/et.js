@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Viga programmis:\n%1",
   timeout: "Käivitatavate iteratsioonide maksimaalne arv on ületatud.",
   trashTooltip: "Eemalda kõik plokid.",
+  stepJsTooltip: "järgmise sammuna",
   catLogic: "Loogika",
   catLoops: "Kordus",
   catMath: "Matemaatika",

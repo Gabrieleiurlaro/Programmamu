@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Programfeil:\n%1",
   timeout: "Det maksimale antallet utførte looper er oversteget.",
   trashTooltip: "Fjern alle blokker",
+  stepJsTooltip:"Følgende passasje",
   catLogic: "Logikk",
   catLoops: "Looper",
   catMath: "Matte",

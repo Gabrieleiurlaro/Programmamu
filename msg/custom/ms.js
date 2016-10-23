@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Ralat aturcara:\n%1",
   timeout: "Takat maksimum lelaran pelaksanaan dicecah.",
   trashTooltip: "Buang semua Blok.",
+  stepJsTooltip:"Tāḻe vēdabhāgaṁ",
   catLogic: "Logik",
   catLoops: "Gelung",
   catMath: "Matematik",

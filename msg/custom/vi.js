@@ -6,6 +6,7 @@ var MSG = {
   badCode: "'Lỗi chương trình:\n%1",
   timeout: "Đã vượt quá số lần lặp cho phép.",
   trashTooltip: "Xóa tất cả mọi mảnh.",
+  stepJsTooltip:"đoạn văn sau",
   catLogic: "Logic",
   catLoops: "Vòng lặp",
   catMath: "Công thức toán",

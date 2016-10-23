@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Program hiba:\n%1",
   timeout: "A program elérte a maximális végrehajtási időt.",
   trashTooltip: "Összes blokk törlése.",
+  stepJsTooltip: "következő lépésként",
   catLogic: "Logikai műveletek",
   catLoops: "Ciklusok",
   catMath: "Matematikai műveletek",

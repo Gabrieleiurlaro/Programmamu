@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Eror dël programa:\n%1",
   timeout: "Nùmer màssim d'arpetission d'esecussion sorpassà.",
   trashTooltip: "Scarté tuti ij blòch.",
+  stepJsTooltip:"...",
   catLogic: "Lògica",
   catLoops: "Liasse",
   catMath: "Matemàtica",

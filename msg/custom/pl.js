@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Błąd programu:\n%1",
   timeout: "Maksymalna liczba iteracji wykonywań przekroczona",
   trashTooltip: "Odrzuć wszystkie bloki.",
+  stepJsTooltip:"Następujący fragment",
   catLogic: "Logika",
   catLoops: "Pętle",
   catMath: "Matematyka",

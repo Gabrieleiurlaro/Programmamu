@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Eroare de program:\n%1",
   timeout: "Numărul maxim de iterații a fost depășit.",
   trashTooltip: "Șterge toate blocurile.",
+  stepJsTooltip:"Următorul pasaj",
   catLogic: "Logic",
   catLoops: "Bucle",
   catMath: "Matematică",

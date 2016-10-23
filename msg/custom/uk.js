@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Помилка програми:\n%1",
   timeout: "Максимальне виконання ітерацій перевищено.",
   trashTooltip: "Відкинути всі блоки.",
+  stepJsTooltip:"наступний уривок",
   catLogic: "Логіка",
   catLoops: "Петлі",
   catMath: "Математика",

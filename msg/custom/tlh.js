@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Qagh:\n%1",
   timeout: "tlhoy nI'qu' poH.",
   trashTooltip: "",
+  stepJsTooltip:"veb mIw",
   catLogic: "meq",
   catLoops: "vIHtaHbogh ghomey",
   catMath: "mI'QeD",

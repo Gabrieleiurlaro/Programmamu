@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Chyba v programe:\n%1",
   timeout: "Bol prekročený maximálny počet opakovaní.",
   trashTooltip: "Zahodiť všetky dielce.",
+  stepJsTooltip:"Nasledujúce pasáž",
   catLogic: "Logika",
   catLoops: "Cykly",
   catMath: "Matematické",

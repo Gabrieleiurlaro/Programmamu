@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Errori in su Programa:\n%1",
   timeout: "Giai lòmpius a su màssimu numeru de repicus.",
   trashTooltip: "Boganci totu is brocus.",
+  stepJsTooltip:"...",
   catLogic: "Lògica",
   catLoops: "Lòrigas",
   catMath: "Matemàtica",

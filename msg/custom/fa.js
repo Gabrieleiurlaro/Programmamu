@@ -6,6 +6,7 @@ var MSG = {
   badCode: "خطای برنامه:\n%1",
   timeout: "حداکثر تکرارهای اجرا رد شده‌است.",
   trashTooltip: "دورریختن همهٔ بلوک‌ها.",
+  stepJsTooltip: "گام بعدی",
   catLogic: "منطق",
   catLoops: "حلقه‌ها",
   catMath: "ریاضی",

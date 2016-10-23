@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Programmafout:\n%1",
   timeout: "Het maximale aantal iteraties is overschreden.",
   trashTooltip: "Alle blokken verwijderen",
+  stepJsTooltip:"Volgende passage",
   catLogic: "Logica",
   catLoops: "Lussen",
   catMath: "Formules",

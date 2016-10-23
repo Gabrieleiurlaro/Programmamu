@@ -6,6 +6,7 @@ var MSG = {
   badCode: "프로그램 오류:\n%1",
   timeout: "최대 실행 반복을 초과했습니다.",
   trashTooltip: "모든 블록을 버립니다.",
+  stepJsTooltip:"다음 단계",  
   catLogic: "논리",
   catLoops: "반복",
   catMath: "수학",

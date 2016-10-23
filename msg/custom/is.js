@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Villa í forriti:\n%1",
   timeout: "Forritið hefur endurtekið sig of oft.",
   trashTooltip: "Fleygja öllum kubbum.",
+  stepjsTooltip:"næsta skref",
   catLogic: "Rökvísi",
   catLoops: "Lykkjur",
   catMath: "Reikningur",

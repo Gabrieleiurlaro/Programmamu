@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Programfel:\n%1",
   timeout: "Det maximala antalet utförda loopar har överskridits.",
   trashTooltip: "Släng alla block.",
+  stepJsTooltip:"följande passage",
   catLogic: "Logik",
   catLoops: "Loopar",
   catMath: "Matematik",

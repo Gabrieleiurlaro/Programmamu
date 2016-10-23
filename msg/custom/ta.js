@@ -6,6 +6,7 @@ var MSG = {
   badCode: "கணினி நிரல் கோளாறு:\n%1",
   timeout: "அதிகபட்ச அடுக்கின் அளவை மீரியது", //max iters reached/exceeded
   trashTooltip: "நீக்கு",
+  stepJsTooltip:"பின்வரும் பத்தியில்",
   catLogic: "தர்க வகை",
   catLoops: "மடக்கு வாக்கியம்",
   catMath: "கணிதம்",

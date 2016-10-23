@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Program hatası:\n %1",
   timeout: "Maksimum yürütme yinelemeleri aşıldı.",
   trashTooltip: "Bütün blokları at.",
+  stepJsTooltip:"aşağıdaki pasaj",
   catLogic: "Mantık",
   catLoops: "Döngüler",
   catMath: "Matematik",

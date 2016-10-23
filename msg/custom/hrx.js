@@ -6,6 +6,7 @@ var MSG = {
   badCode: "Programmfehler:\n%1",
   timeout: "Die maximale Ausführungswiederholunge woore üwerschritt.",
   trashTooltip: "All Bausten verwerfe.",
+  stepJsTooltip:"...",
   catLogic: "Logik",
   catLoops: "Schleife",
   catMath: "Mathematik",

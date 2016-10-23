@@ -6,6 +6,7 @@ var MSG = {
   badCode: "プログラムのエラー:\n%1",
   timeout: "命令の実行回数が制限値を超えました。",
   trashTooltip: "すべてのブロックを消します。",
+  stepJsTooltip:"次のステップ",
   catLogic: "論理",
   catLoops: "繰り返し",
   catMath: "数学",
